@@ -288,3 +288,7 @@ This project demonstrates how SQL can be used to transform raw transactional dat
 ## ⭐ Support
 
 If you found this project useful or learned something from it, consider giving the repository a **⭐ Star**.
+
+# sql-ecommerce-analytics
+E-commerce sales analytics using Python, SQL, and data visualization.
+7fdf55ffa710dc36bfef0ba8baa5b4b220789679
